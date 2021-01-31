@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454412183 source:e:\c_codeblocks\decimal_to_binary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
