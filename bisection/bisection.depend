@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458579060 source:e:\c_codeblocks\bisection\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
