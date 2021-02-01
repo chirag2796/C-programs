@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include<conio.h>
+int main()
+{
+   
+   int i,j,a;
+   char c1[12];
+   char c2[6];
+   for(i=0;i<=11;i++){
+   scanf("%c",&a);
+   c1[i]=a;
+
+   for(i=0,j=0;i<=11;i+=2,j++){
+        c2[j]=c1[i];
+   }
+   for(i=0;i<=5;i++){
+   printf("%d ",c2[i]);
+   }
+  
+   main();
+}

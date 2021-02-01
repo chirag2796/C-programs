@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454955573 source:e:\c_codeblocks\na_2\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

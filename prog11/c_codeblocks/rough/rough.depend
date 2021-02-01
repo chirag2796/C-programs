@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1454345278 source:e:\c_codeblocks\rough\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1454755854 source:e:\prog11\c_codeblocks\rough\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

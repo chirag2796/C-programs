@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456943274 source:e:\c_codeblocks\secant\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
